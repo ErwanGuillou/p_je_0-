@@ -33,3 +33,9 @@ services:
     # AppBundle\Service\ExampleService:
     #     arguments:
     #         $someArgument: 'some_value'
+
+    facebook_provider:
+        class: AppBundle\Security\Provider\Facebook
+
+    facebook_authenticator:
+        class: AppBundle\Security\Authenticator\Facebook
