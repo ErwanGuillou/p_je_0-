@@ -1,4 +1,1 @@
-p_je_01
-=======
-
-A Symfony project created on October 14, 2017, 12:44 am.
+![Mascotte](https://github.com/ErwanGuillou/p_je_0-/blob/master/web/images/mascotte.png)
